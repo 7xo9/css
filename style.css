@@ -1,0 +1,124 @@
+.dbody{
+    background-color: red;
+}
+
+.sbody{
+    background-color: #EEEEEE;
+}
+.welc{
+text-align: center;
+background-color: antiquewhite;
+}
+
+.para{
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+
+.unorder-list{
+    text-align: center;
+    text-decoration: none;
+    background-color: green;
+}
+
+.sec-header{
+    color: white;
+    text-align: left;
+}
+
+.para2{
+    color: white;
+    width: 55%;
+    text-align: left;
+}
+
+.links{
+    margin-top: 15vh;
+    font-size: 2rem;
+}
+.links1{
+    color: white;
+    margin-top: 15vh;
+    text-decoration: none;
+    text-align: left;
+}
+
+.links2{
+
+    color: white;
+    margin-left: 90%;
+}
+
+.nosty{
+    text-align: center;
+    background-color: antiquewhite;
+    width: 10%;
+    margin-left: 45%;
+}
+
+.nostyl{
+    text-align: center;
+}
+
+.side{
+    color: white;
+    text-align: center;
+    width: 50%;
+    background-color: green;
+}
+
+.btn{
+    float: right;
+    margin-bottom: 50%;
+    margin-right: 20%;
+    font-size: 5rem;
+}
+
+.btn:hover{
+    background-color: red;
+    color: green;
+}
+
+.pagee{
+    text-decoration: none;
+    color: red;
+}
+
+.pagee:hover{
+    color: green;
+}
+
+
+.MHeader{
+    margin-left: 37%;
+    text-align: center;
+    background-color: #176B87;
+    color: white;
+    width: 25%;
+}
+
+.nav{
+    list-style-type: none;
+     margin: 0;
+    padding: 0;
+}
+
+.nav li{
+    float: right;
+    margin-right: 50px;
+}
+
+.nav a{
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    
+}
+
+.fin{
+    text-align: center;
+    background-color: #176B87;
+    margin-top: 5%;
+    color: white;
+}
